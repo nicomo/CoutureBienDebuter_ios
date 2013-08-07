@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="365px" viewBox="0 0 512 365" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>poche</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M198,47.5 L358,47.5" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="2"></path>
+        <path d="M198,297.5 L358,297.5" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="2"></path>
+        <path d="M323.109372,274.574219 C317.129959,301.111335 282.335171,298 282.335171,298 C282.335171,298 238.556623,296.72764 218,243.336914 C206.683242,214.666667 206.683242,153.833451 206.683242,153.833451 C206.683242,153.833451 202.245786,47.9999654 357.999997,48 C357.999994,47.9999654 357.999992,245.916667 357.999992,245.916667 C357.999992,245.916667 328.156247,252.175781 323.109372,274.574219 Z M323.109372,274.574219" id="Path 1" stroke="#4A4A4A"></path>
+        <path d="M358,149.5 L208,149.500023" id="Line" stroke="#4A4A4A" stroke-linecap="square" fill="#4A4A4A"></path>
+        <path id="Line decoration-1" d="M357.2,149.5 C353.42,150.550001 350.18,151.450001 346.4,152.500002 C346.4,150.400002 346.4,148.600002 346.4,146.500002 C350.18,147.550001 353.42,148.450001 357.2,149.5 C357.2,149.5 357.2,149.5 357.2,149.5 Z M357.2,149.5" stroke="#4A4A4A" stroke-linecap="square" fill="#4A4A4A"></path>
+        <path id="Line decoration-2" d="M208,149.500023 C211.78,150.550022 215.02,151.450022 218.8,152.500021 C218.8,150.400021 218.8,148.600021 218.8,146.500021 C215.02,147.550022 211.78,148.450022 208,149.500023 C208,149.500023 208,149.500023 208,149.500023 Z M208,149.500023" stroke="#4A4A4A" stroke-linecap="square" fill="#4A4A4A"></path>
+        <path d="M368,68 L368,218" id="Line" stroke="#4A4A4A" stroke-linecap="square" fill="#4A4A4A"></path>
+        <path id="Line decoration-1" d="M368,68.8 C369.05,72.58 369.95,75.8200001 371,79.6000001 C368.9,79.6 367.1,79.6 365,79.5999999 C366.05,75.8199999 366.95,72.58 368,68.8 C368,68.8 368,68.8 368,68.8 Z M368,68.8" stroke="#4A4A4A" stroke-linecap="square" fill="#4A4A4A"></path>
+        <path id="Line decoration-2" d="M368,218 C369.05,214.22 369.95,210.98 371,207.2 C368.9,207.2 367.1,207.2 365,207.2 C366.05,210.98 366.95,214.22 368,218 C368,218 368,218 368,218 Z M368,218" stroke="#4A4A4A" stroke-linecap="square" fill="#4A4A4A"></path>
+        <path d="M283,48 L283,298" id="Line" stroke="#4A4A4A" stroke-linecap="square" fill="#4A4A4A"></path>
+        <path id="Line decoration-1" d="M283,48.8 C284.05,52.58 284.95,55.8200001 286,59.6000001 C283.9,59.6 282.1,59.6 280,59.5999999 C281.05,55.8199999 281.95,52.58 283,48.8 C283,48.8 283,48.8 283,48.8 Z M283,48.8" stroke="#4A4A4A" stroke-linecap="square" fill="#4A4A4A"></path>
+        <path id="Line decoration-2" d="M283,298 C284.05,294.22 284.95,290.98 286,287.2 C283.9,287.2 282.1,287.2 280,287.2 C281.05,290.98 281.95,294.22 283,298 C283,298 283,298 283,298 Z M283,298" stroke="#4A4A4A" stroke-linecap="square" fill="#4A4A4A"></path>
+        <path d="M353,67.5 L357.979466,67.5" id="Line" stroke="#4A4A4A" stroke-linecap="square"></path>
+        <path d="M353,218.5 L357.979466,218.5" id="Line" stroke="#4A4A4A" stroke-linecap="square"></path>
+        <text id="2 cm" fill="#000000" font-family="Helvetica" font-size="12" font-weight="normal" x="362" y="234">
+            <tspan>2 cm</tspan>
+        </text>
+        <text id="2 cm" fill="#000000" font-family="Helvetica" font-size="12" font-weight="normal" x="362" y="62">
+            <tspan>2 cm</tspan>
+        </text>
+        <text id="15 cm" fill="#000000" transform="translate(375.500000, 151.500000) rotate(-270.000000) translate(-375.500000, -151.500000) " font-family="Helvetica" font-size="12" font-weight="normal" x="359" y="156">
+            <tspan>15 cm</tspan>
+        </text>
+        <text id="25 cm (femme)" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="68" y="200.463867">
+            <tspan>25 cm (femme)</tspan>
+        </text>
+        <text id="35 homme" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="64" y="179">
+            <tspan>35 cm (homme)</tspan>
+        </text>
+        <text id="15 cm" fill="#000000" font-family="Helvetica" font-size="12" font-weight="normal" x="225" y="146">
+            <tspan>15 cm</tspan>
+        </text>
+        <path d="M167.5,182.5 C167.5,182.5 188.430646,207.221256 213.90625,214.5 C244.430645,223.221256 279.5,214.5 279.5,214.5" id="Line" stroke="#D70014" stroke-linecap="square"></path>
+        <path d="M278,218 C279.656854,218 281,216.656854 281,215 C281,213.343146 279.656854,212 278,212 C276.343146,212 275,213.343146 275,215 C275,216.656854 276.343146,218 278,218 Z M278,218" id="Oval 1" fill="#D70014"></path>
+        <path d="M167.5,162.5 L167.5,204.5" id="Line" stroke="#D70014" stroke-linecap="square"></path>
+    </g>
+</svg>

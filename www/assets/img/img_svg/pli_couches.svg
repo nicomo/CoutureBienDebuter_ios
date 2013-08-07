@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="618px" height="412px" viewBox="0 0 618 412" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>pli_couches</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="PLIS COUCHES" fill="#4A4A4A" font-family="Roboto" font-size="20" font-weight="normal" x="264" y="57.3769531">
+            <tspan>PLIS COUCHES</tspan>
+        </text>
+        <path d="M221.364583,169.681818 L221.364583,198.318182" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
+        <path d="M112.579804,183.517057 C112.579804,183.517057 165.433846,141.873343 220.780533,183.517058" id="Path 17" stroke="#5D8CE1"></path>
+        <path id="Path 17 decoration-1" d="M210.032974,179.891919 C213.711233,180.945753 216.870911,181.984473 220.537327,183.334589 C218.069094,180.259841 215.834765,177.674574 213.106877,174.739141" stroke="#5D8CE1"></path>
+        <path d="M386.5,168.681818 L386.5,197.318182" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
+        <path d="M277.71522,183.517057 C277.71522,183.517057 330.522693,141.873343 385.86938,183.517058" id="Path 17" stroke="#5D8CE1"></path>
+        <path id="Path 17 decoration-1" d="M375.161117,179.915128 C378.839796,180.971433 381.989834,182.005339 385.656573,183.357339 C383.188648,180.281145 380.964964,177.701317 378.237694,174.763946" stroke="#5D8CE1"></path>
+        <path d="M552.5,168.681818 L552.5,197.318182" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
+        <path d="M442.850637,183.517057 C442.850637,183.517057 496.663649,141.873343 552.010336,183.517058" id="Path 17" stroke="#5D8CE1"></path>
+        <path id="Path 17 decoration-1" d="M541.353901,179.951372 C545.037321,181.010659 548.180001,182.040362 551.848192,183.395293 C549.37926,180.316477 547.162936,177.740833 544.429865,174.799825" stroke="#5D8CE1"></path>
+        <path d="M85,100.5 L580.40625,100.5" id="Path 1" stroke="#4A4A4A"></path>
+        <path d="M112.5,129 L112.5,101" id="Path 2" stroke="#4A4A4A" stroke-width="3"></path>
+        <path d="M222.5,129 L222.5,101" id="Path 2" stroke="#4A4A4A" stroke-width="3"></path>
+        <path d="M277.5,129 L277.5,101" id="Path 2" stroke="#4A4A4A" stroke-width="3"></path>
+        <path d="M387.5,129 L387.5,101" id="Path 2" stroke="#4A4A4A" stroke-width="3"></path>
+        <path d="M442.5,128.471918 L442.5,100.980501" id="Path 2" stroke="#4A4A4A" stroke-width="3"></path>
+        <path d="M553.5,129 L553.5,101" id="Path 2" stroke="#4A4A4A" stroke-width="3"></path>
+        <path d="M113.898698,87.5 L223.931741,87.5" id="Line" stroke="#000000" stroke-linecap="square"></path>
+        <path id="Line decoration-1" d="M125.498698,90.5 C121.718698,89.45 118.478698,88.55 114.698698,87.5 C118.478698,86.45 121.718698,85.55 125.498698,84.5" stroke="#000000" stroke-linecap="square"></path>
+        <path id="Line decoration-2" d="M213.098698,90.5 C216.878698,89.45 220.118698,88.55 223.898698,87.5 C220.118698,86.45 216.878698,85.55 213.098698,84.5" stroke="#000000" stroke-linecap="square"></path>
+        <text id="1" fill="#4A4A4A" font-family="Roboto" font-size="14" font-weight="normal" x="162" y="88.5">
+            <tspan>1</tspan>
+        </text>
+        <path d="M444.169531,88.5 L554.257602,88.5" id="Line" stroke="#000000" stroke-linecap="square"></path>
+        <path id="Line decoration-1" d="M455.769531,91.5 C451.989531,90.45 448.749531,89.55 444.969531,88.5 C448.749531,87.45 451.989531,86.55 455.769531,85.5" stroke="#000000" stroke-linecap="square"></path>
+        <path id="Line decoration-2" d="M543.369528,91.5 C547.149528,90.45 550.389528,89.55 554.169528,88.5 C550.389528,87.45 547.149528,86.55 543.369528,85.5" stroke="#000000" stroke-linecap="square"></path>
+        <text id="1" fill="#4A4A4A" font-family="Roboto" font-size="14" font-weight="normal" x="492" y="88.4638672">
+            <tspan>1</tspan>
+        </text>
+        <path d="M279.034115,88.5 L389.067158,88.5" id="Line" stroke="#000000" stroke-linecap="square"></path>
+        <path id="Line decoration-1" d="M290.634115,91.5 C286.854115,90.45 283.614115,89.55 279.834115,88.5 C283.614115,87.45 286.854115,86.55 290.634115,85.5" stroke="#000000" stroke-linecap="square"></path>
+        <path id="Line decoration-2" d="M378.234115,91.5 C382.014115,90.45 385.254115,89.55 389.034115,88.5 C385.254115,87.45 382.014115,86.55 378.234115,85.5" stroke="#000000" stroke-linecap="square"></path>
+        <text id="1" fill="#4A4A4A" font-family="Roboto" font-size="14" font-weight="normal" x="327" y="88.5">
+            <tspan>1</tspan>
+        </text>
+        <text id="0,5" fill="#4A4A4A" font-family="Roboto" font-size="14" font-weight="normal" x="238" y="95.4638672">
+            <tspan>0,5</tspan>
+        </text>
+        <text id="0,5" fill="#4A4A4A" font-family="Roboto" font-size="14" font-weight="normal" x="407.101273" y="95.4638672">
+            <tspan>0,5</tspan>
+        </text>
+        <path d="M166.5,101 L166.5,335" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="4"></path>
+        <path d="M331.5,101 L331.5,335" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="4"></path>
+        <path d="M496.5,101 L496.5,335" id="Line" stroke="#979797" stroke-linecap="square" stroke-dasharray="4"></path>
+        <path d="M113.5,128.471918 L113.5,334.891189" id="Line" stroke="#4A4A4A" stroke-linecap="square"></path>
+        <path d="M278.5,128.471918 L278.5,334.891189" id="Line" stroke="#4A4A4A" stroke-linecap="square"></path>
+        <path d="M442.5,128.471918 L442.5,334.891189" id="Line" stroke="#4A4A4A" stroke-linecap="square"></path>
+        <text id="arête du pli" fill="#4A4A4A" transform="translate(101.783203, 303.681641) rotate(-90.000000) translate(-101.783203, -303.681641) " font-family="Roboto" font-size="14" font-weight="normal" x="66.7832031" y="310.145508">
+            <tspan>arête du pli</tspan>
+        </text>
+        <text id="arête du pli" fill="#4A4A4A" transform="translate(431.712891, 300.681641) rotate(-90.000000) translate(-431.712891, -300.681641) " font-family="Roboto" font-size="14" font-weight="normal" x="396.712891" y="307.145508">
+            <tspan>arête du pli</tspan>
+        </text>
+        <text id="creux du pli" fill="#4A4A4A" transform="translate(152.000000, 304.681641) rotate(-90.000000) translate(-152.000000, -304.681641) " font-family="Roboto" font-size="14" font-weight="normal" x="115.5" y="311.145508">
+            <tspan>creux du pli</tspan>
+        </text>
+        <text id="creux du pli" fill="#4A4A4A" transform="translate(481.929688, 302.000000) rotate(-90.000000) translate(-481.929688, -302.000000) " font-family="Roboto" font-size="14" font-weight="normal" x="445.429688" y="308.463867">
+            <tspan>creux du pli</tspan>
+        </text>
+        <text id="creux du pli" fill="#4A4A4A" transform="translate(317.500000, 302.000000) rotate(-90.000000) translate(-317.500000, -302.000000) " font-family="Roboto" font-size="14" font-weight="normal" x="281" y="308.463867">
+            <tspan>creux du pli</tspan>
+        </text>
+        <text id="arête du pli" fill="#4A4A4A" transform="translate(263.500000, 301.000000) rotate(-90.000000) translate(-263.500000, -301.000000) " font-family="Roboto" font-size="14" font-weight="normal" x="228.5" y="307.463867">
+            <tspan>arête du pli</tspan>
+        </text>
+        <path d="M85,155.5 L580,155.5" id="Line" stroke="#000000" stroke-linecap="square" stroke-dasharray="4"></path>
+        <text id="couture" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="32" y="161.463867">
+            <tspan>couture</tspan>
+        </text>
+    </g>
+</svg>
