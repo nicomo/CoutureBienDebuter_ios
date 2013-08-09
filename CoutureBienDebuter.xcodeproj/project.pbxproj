@@ -166,13 +166,13 @@
 			children = (
 				2052AF2217B298B600D1071C /* icon-72@2x.png */,
 				2052AF2017B298AE00D1071C /* icon-72.png */,
-				2052AEDC17B28DB000D1071C /* CoutureBienDebuter */,
 				205B84F61798038500CC10E2 /* CordovaLib.xcodeproj */,
 				2052AF1E17B28E2200D1071C /* config.xml */,
 				2010FDC4179763A10092C107 /* www */,
 				20E98D1217A6A4EE0085D7CA /* Pinterest.embeddedframework */,
 				20E98D0E17A6A4440085D7CA /* Plugins */,
 				2010FD3417975ED90092C107 /* libCordova.a */,
+				2052AEDC17B28DB000D1071C /* CoutureBienDebuter */,
 				2010FCE11797138B0092C107 /* Frameworks */,
 				2010FCE01797138B0092C107 /* Products */,
 			);
