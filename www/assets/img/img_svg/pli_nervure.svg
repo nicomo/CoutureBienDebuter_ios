@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="618px" height="412px" viewBox="0 0 618 412" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="512px" height="365px" viewBox="0 0 512 365" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <title>pli_nervure</title>
     <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
     <defs></defs>
     <g id="Page 1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" transform="translate(13.000000, 249.000000)">
-            <path d="M519.343122,1.38118812 L519.343122,45.5792079" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
-            <path id="Line decoration-1" d="M516.343122,12.9811877 C517.393122,9.20118783 518.293122,5.96118796 519.343122,2.1811881 C520.393122,5.96118805 521.293122,9.201188 522.343122,12.981188" stroke="#5D8CE1" stroke-linecap="square"></path>
-            <path id="Line decoration-2" d="M516.343122,34.5811871 C517.393122,38.3611871 518.293122,41.601187 519.343122,45.381187 C520.393122,41.6011871 521.293122,38.3611873 522.343122,34.5811874" stroke="#5D8CE1" stroke-linecap="square"></path>
-            <text id="0,5 cm" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="524.950541" y="36.4589167">
+        <g id="Group" transform="translate(10.000000, 235.000000)">
+            <path d="M442.343122,1.38118812 L442.343122,45.5792079" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
+            <path id="Line decoration-1" d="M439.343122,12.9811877 C440.393122,9.20118783 441.293122,5.96118796 442.343122,2.1811881 C443.393122,5.96118805 444.293122,9.201188 445.343122,12.981188" stroke="#5D8CE1" stroke-linecap="square"></path>
+            <path id="Line decoration-2" d="M439.343122,34.5811871 C440.393122,38.3611871 441.293122,41.601187 442.343122,45.381187 C443.393122,41.6011871 444.293122,38.3611873 445.343122,34.5811874" stroke="#5D8CE1" stroke-linecap="square"></path>
+            <text id="0,5 cm" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="447.950541" y="36.4589167">
                 <tspan>0,5 cm</tspan>
             </text>
-            <path d="M519.343122,47.4207921 L519.343122,91.6188119" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
-            <path id="Line decoration-1" d="M516.343122,59.0207917 C517.393122,55.2407918 518.293122,52.0007919 519.343122,48.2207921 C520.393122,52.000792 521.293122,55.240792 522.343122,59.0207919" stroke="#5D8CE1" stroke-linecap="square"></path>
-            <path id="Line decoration-2" d="M516.343122,80.6207911 C517.393122,84.400791 518.293122,87.640791 519.343122,91.420791 C520.393122,87.6407911 521.293122,84.4007912 522.343122,80.6207914" stroke="#5D8CE1" stroke-linecap="square"></path>
-            <text id="0,5 cm" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="525.950541" y="81.5777286">
+            <path d="M442.343122,47.4207921 L442.343122,91.6188119" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
+            <path id="Line decoration-1" d="M439.343122,59.0207917 C440.393122,55.2407918 441.293122,52.0007919 442.343122,48.2207921 C443.393122,52.000792 444.293122,55.240792 445.343122,59.0207919" stroke="#5D8CE1" stroke-linecap="square"></path>
+            <path id="Line decoration-2" d="M439.343122,80.6207911 C440.393122,84.400791 441.293122,87.640791 442.343122,91.420791 C443.393122,87.6407911 444.293122,84.4007912 445.343122,80.6207914" stroke="#5D8CE1" stroke-linecap="square"></path>
+            <text id="0,5 cm" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="448.950541" y="81.5777286">
                 <tspan>0,5 cm</tspan>
             </text>
-            <path d="M127.743431,46.5 L568.234204,46.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
-            <path d="M127.743431,92.539604 L568.238022,92.539604" id="Line" stroke="#4A4A4A" stroke-linecap="square" stroke-dasharray="10,5"></path>
-            <path d="M129.50541,0.46039604 L570,0.46039604" id="Line" stroke="#4A4A4A" stroke-linecap="square" stroke-dasharray="10,5"></path>
+            <path d="M127.743431,46.5 L488.666449,46.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            <path d="M127.743431,92.5 L488.669577,92.5" id="Line" stroke="#4A4A4A" stroke-linecap="square" stroke-dasharray="10,5"></path>
+            <path d="M129.187136,0.5 L490.113281,0.5" id="Line" stroke="#4A4A4A" stroke-linecap="square" stroke-dasharray="10,5"></path>
             <text id="ligne de piqure" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="0" y="44.4589167">
                 <tspan>ligne de piqure</tspan>
             </text>
@@ -30,22 +30,22 @@
                 <tspan>arête du pli</tspan>
             </text>
         </g>
-        <g id="Group" transform="translate(23.000000, 64.000000)">
-            <path d="M519.343122,1.38118812 L519.343122,45.5792079" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
-            <path id="Line decoration-1" d="M516.343122,12.9811877 C517.393122,9.20118783 518.293122,5.96118796 519.343122,2.1811881 C520.393122,5.96118805 521.293122,9.201188 522.343122,12.981188" stroke="#5D8CE1" stroke-linecap="square"></path>
-            <path id="Line decoration-2" d="M516.343122,34.5811871 C517.393122,38.3611871 518.293122,41.601187 519.343122,45.381187 C520.393122,41.6011871 521.293122,38.3611873 522.343122,34.5811874" stroke="#5D8CE1" stroke-linecap="square"></path>
-            <text id="0,5 cm" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="522.950541" y="38.4589167">
+        <g id="Group" transform="translate(20.000000, 50.000000)">
+            <path d="M433.343122,1.38118812 L433.343122,45.5792079" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
+            <path id="Line decoration-1" d="M430.343122,12.9811877 C431.393122,9.20118783 432.293122,5.96118796 433.343122,2.1811881 C434.393122,5.96118805 435.293122,9.201188 436.343122,12.981188" stroke="#5D8CE1" stroke-linecap="square"></path>
+            <path id="Line decoration-2" d="M430.343122,34.5811871 C431.393122,38.3611871 432.293122,41.601187 433.343122,45.381187 C434.393122,41.6011871 435.293122,38.3611873 436.343122,34.5811874" stroke="#5D8CE1" stroke-linecap="square"></path>
+            <text id="0,5 cm" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="436.950541" y="38.4589167">
                 <tspan>0,5 cm</tspan>
             </text>
-            <path d="M519.343122,47.4207921 L519.343122,91.6188119" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
-            <path id="Line decoration-1" d="M516.343122,59.0207917 C517.393122,55.2407918 518.293122,52.0007919 519.343122,48.2207921 C520.393122,52.000792 521.293122,55.240792 522.343122,59.0207919" stroke="#5D8CE1" stroke-linecap="square"></path>
-            <path id="Line decoration-2" d="M516.343122,80.6207911 C517.393122,84.400791 518.293122,87.640791 519.343122,91.420791 C520.393122,87.6407911 521.293122,84.4007912 522.343122,80.6207914" stroke="#5D8CE1" stroke-linecap="square"></path>
-            <text id="0,5 cm" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="525.950541" y="79.5777286">
+            <path d="M433.343122,47.4207921 L433.343122,91.6188119" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
+            <path id="Line decoration-1" d="M430.343122,59.0207917 C431.393122,55.2407918 432.293122,52.0007919 433.343122,48.2207921 C434.393122,52.000792 435.293122,55.240792 436.343122,59.0207919" stroke="#5D8CE1" stroke-linecap="square"></path>
+            <path id="Line decoration-2" d="M430.343122,80.6207911 C431.393122,84.400791 432.293122,87.640791 433.343122,91.420791 C434.393122,87.6407911 435.293122,84.4007912 436.343122,80.6207914" stroke="#5D8CE1" stroke-linecap="square"></path>
+            <text id="0,5 cm" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="439.950541" y="79.5777286">
                 <tspan>0,5 cm</tspan>
             </text>
-            <path d="M127.743431,46.5 L568.234204,46.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
-            <path d="M127.743431,92.539604 L568.238022,92.539604" id="Line" stroke="#4A4A4A" stroke-linecap="square" stroke-dasharray="10,5"></path>
-            <path d="M129.50541,0.46039604 L570,0.46039604" id="Line" stroke="#4A4A4A" stroke-linecap="square" stroke-dasharray="10,5"></path>
+            <path d="M127.743431,46.5 L479.854119,46.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            <path d="M127.743431,92.5 L479.85717,92.5" id="Line" stroke="#4A4A4A" stroke-linecap="square" stroke-dasharray="10,5"></path>
+            <path d="M129.151886,0.5 L481.265625,0.5" id="Line" stroke="#4A4A4A" stroke-linecap="square" stroke-dasharray="10,5"></path>
             <text id="ligne de piqure" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="0" y="44.4589167">
                 <tspan>ligne de piqure</tspan>
             </text>
@@ -56,13 +56,13 @@
                 <tspan>arête du pli</tspan>
             </text>
         </g>
-        <text id="1 cm" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="324" y="221.463867">
+        <text id="1 cm" fill="#000000" font-family="Roboto" font-size="14" font-weight="normal" x="321" y="207.463867">
             <tspan>1 cm</tspan>
         </text>
-        <path d="M316.5,155.578147 L316.5,247.80818" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
-        <path id="Line decoration-1" d="M313.5,167.178147 C314.55,163.398147 315.45,160.158147 316.5,156.378147 C317.55,160.158147 318.45,163.398147 319.5,167.178147" stroke="#5D8CE1" stroke-linecap="square"></path>
-        <path id="Line decoration-2" d="M313.5,236.778146 C314.55,240.558146 315.45,243.798146 316.5,247.578146 C317.55,243.798146 318.45,240.558146 319.5,236.778146" stroke="#5D8CE1" stroke-linecap="square"></path>
-        <text id="NERVURES" fill="#4A4A4A" font-family="Roboto" font-size="20" font-weight="normal" x="276" y="58.3769531">
+        <path d="M313.5,141.578147 L313.5,233.80818" id="Line" stroke="#5D8CE1" stroke-linecap="square"></path>
+        <path id="Line decoration-1" d="M310.5,153.178147 C311.55,149.398147 312.45,146.158147 313.5,142.378147 C314.55,146.158147 315.45,149.398147 316.5,153.178147" stroke="#5D8CE1" stroke-linecap="square"></path>
+        <path id="Line decoration-2" d="M310.5,222.778146 C311.55,226.558146 312.45,229.798146 313.5,233.578146 C314.55,229.798146 315.45,226.558146 316.5,222.778146" stroke="#5D8CE1" stroke-linecap="square"></path>
+        <text id="NERVURES" fill="#4A4A4A" font-family="Roboto" font-size="20" font-weight="normal" x="273" y="44.3769531">
             <tspan>NERVURES</tspan>
         </text>
     </g>
