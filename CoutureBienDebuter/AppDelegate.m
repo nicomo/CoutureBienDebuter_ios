@@ -24,7 +24,7 @@ int current;
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     chapters = [NSArray arrayWithObjects:
-                @"Bien débuter",
+                @"Bien débuter en couture",
                 @"Introduction",
                 @"La machine à coudre",
                 @"Les bons outils",
