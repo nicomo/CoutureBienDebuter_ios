@@ -505,7 +505,7 @@
 					"“$(OBJROOT)/UninstalledProducts/include”",
 					"“$(TARGET_BUILD_DIR)/usr/local/lib/include”",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/CoutureBienDebuter/CoutureBienDebuterienDebuter-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CoutureBienDebuter/CoutureBienDebuter-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				OTHER_LDFLAGS = (
 					"-Obj-C",
@@ -533,7 +533,7 @@
 					"“$(OBJROOT)/UninstalledProducts/include”",
 					"“$(TARGET_BUILD_DIR)/usr/local/lib/include”",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/CoutureBienDebuter/CoutureBienDebuterienDebuter-Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/CoutureBienDebuter/CoutureBienDebuter-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				OTHER_LDFLAGS = (
 					"-Obj-C",
