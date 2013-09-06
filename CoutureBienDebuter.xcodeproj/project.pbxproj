@@ -29,7 +29,7 @@
 		2052AF0517B28DB000D1071C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2052AEE017B28DB000D1071C /* AppDelegate.m */; };
 		2052AF0617B28DB000D1071C /* burger.png in Resources */ = {isa = PBXBuildFile; fileRef = 2052AEE117B28DB000D1071C /* burger.png */; };
 		2052AF0717B28DB000D1071C /* burger@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2052AEE217B28DB000D1071C /* burger@2x.png */; };
-		2052AF0917B28DB000D1071C /* CoutureBienDebuterienDebuter-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2052AEE517B28DB000D1071C /* CoutureBienDebuterienDebuter-Info.plist */; };
+		2052AF0917B28DB000D1071C /* CoutureBienDebuter-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2052AEE517B28DB000D1071C /* CoutureBienDebuter-Info.plist */; };
 		2052AF0A17B28DB000D1071C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2052AEE617B28DB000D1071C /* InfoPlist.strings */; };
 		2052AF0B17B28DB000D1071C /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2052AEE817B28DB000D1071C /* RootViewController.xib */; };
 		2052AF0C17B28DB000D1071C /* icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 2052AEEC17B28DB000D1071C /* icon-72.png */; };
@@ -95,7 +95,7 @@
 		2052AEE117B28DB000D1071C /* burger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = burger.png; sourceTree = "<group>"; };
 		2052AEE217B28DB000D1071C /* burger@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "burger@2x.png"; sourceTree = "<group>"; };
 		2052AEE417B28DB000D1071C /* CoutureBienDebuter-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CoutureBienDebuter-Prefix.pch"; sourceTree = "<group>"; };
-		2052AEE517B28DB000D1071C /* CoutureBienDebuterienDebuter-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CoutureBienDebuterienDebuter-Info.plist"; sourceTree = "<group>"; };
+		2052AEE517B28DB000D1071C /* CoutureBienDebuter-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CoutureBienDebuter-Info.plist"; sourceTree = "<group>"; };
 		2052AEE717B28DB000D1071C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2052AEE917B28DB000D1071C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
 		2052AEEA17B28DB000D1071C /* Globals.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Globals.h; sourceTree = "<group>"; };
@@ -218,7 +218,7 @@
 				2052AEE117B28DB000D1071C /* burger.png */,
 				2052AEE217B28DB000D1071C /* burger@2x.png */,
 				2052AEE417B28DB000D1071C /* CoutureBienDebuter-Prefix.pch */,
-				2052AEE517B28DB000D1071C /* CoutureBienDebuterienDebuter-Info.plist */,
+				2052AEE517B28DB000D1071C /* CoutureBienDebuter-Info.plist */,
 				2052AEE617B28DB000D1071C /* InfoPlist.strings */,
 				2052AEE817B28DB000D1071C /* RootViewController.xib */,
 				2052AEEA17B28DB000D1071C /* Globals.h */,
@@ -373,7 +373,7 @@
 				2052AF0417B28DB000D1071C /* active@2x.png in Resources */,
 				2052AF0617B28DB000D1071C /* burger.png in Resources */,
 				2052AF0717B28DB000D1071C /* burger@2x.png in Resources */,
-				2052AF0917B28DB000D1071C /* CoutureBienDebuterienDebuter-Info.plist in Resources */,
+				2052AF0917B28DB000D1071C /* CoutureBienDebuter-Info.plist in Resources */,
 				2052AF0A17B28DB000D1071C /* InfoPlist.strings in Resources */,
 				2052AF0B17B28DB000D1071C /* RootViewController.xib in Resources */,
 				2052AF0C17B28DB000D1071C /* icon-72.png in Resources */,
