@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ABBDD6EB-4C1E-4759-A35B-BA1DC38D5CFC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CoutureBienDebuter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8EB77B17-8304-4EBE-9194-987816119AE5</key>
+		<string>ssh://github.com/nicomo/CoutureBienDebuter_ios.git</string>
+		<key>E0E4A9CE-1818-4FAF-A7A8-F4E6B53CCCD9</key>
+		<string>https://github.com/nicomo/framework.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CoutureBienDebuter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8EB77B17-8304-4EBE-9194-987816119AE5</key>
+		<string>../..</string>
+		<key>E0E4A9CE-1818-4FAF-A7A8-F4E6B53CCCD9</key>
+		<string>../../www/framework</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/nicomo/CoutureBienDebuter_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8EB77B17-8304-4EBE-9194-987816119AE5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8EB77B17-8304-4EBE-9194-987816119AE5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CoutureBienDebuter_ios</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E0E4A9CE-1818-4FAF-A7A8-F4E6B53CCCD9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>framework</string>
+		</dict>
+	</array>
+</dict>
+</plist>
